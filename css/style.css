@@ -548,7 +548,7 @@ h1, h2, h3, h4, h5, h6, figure {
   border: none !important;
 }
 #fh5co-featured-testimony .fh5co-heading {
-  margin-bottom: 170px;
+  margin-bottom: 100px;
 }
 @media screen and (max-width: 768px) {
   #fh5co-featured-testimony .fh5co-heading {
@@ -570,7 +570,7 @@ h1, h2, h3, h4, h5, h6, figure {
 #fh5co-featured-testimony blockquote {
   border: none;
   position: relative;
-  margin-top: 100px;
+  margin-top: 50px;
 }
 @media screen and (max-width: 992px) {
   #fh5co-featured-testimony blockquote {
